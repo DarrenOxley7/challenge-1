@@ -1,6 +1,8 @@
 # Refactoring existing website code for accessibility (Challenge 1)
 
-## The task
+## Description
+
+### The Task
 
 I was tasked with taking an existing code base and refactoring it to make it more accessible and optimised for search engines, without changing the overall look and feel of the website. As someone new to web development this stretched my understanding of accessibility, but through making some changes and using semantic html the website is now closing to meeting accessibility standards. 
 
@@ -8,7 +10,7 @@ Whilst refactoring the code I began to notice patterns in the css and decided to
 
 ## Usage
 
-As the brief included an instruction to not change the look of the current site I have included a screenshot below which was provided by the client. To access my version, navigate to [My refactored Horiseon website ](to be include)
+As the brief included an instruction to not change the look of the current site I have included a screenshot below which was provided by the client. To access my version of the wevsite, navigate to [My refactored Horiseon website ](https://darrenoxley7.github.io/challenge-1/)
 
 ![Horiseon Website image](https://github.com/DarrenOxley7/challenge-1/blob/main/assets/images/01-html-css-git-challenge-demo.png))
 
@@ -47,4 +49,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
----
+
