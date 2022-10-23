@@ -10,7 +10,7 @@ Whilst refactoring the code I began to notice patterns in the css and decided to
 
 As the brief included an instruction to not change the look of the current site I have included a screenshot below which was provided by the client. To access my version, navigate to [My refactored Horiseon website ](to be include)
 
-![alt Horiseon Website image](starter\assets\images\01-html-css-git-challenge-demo.png)
+![alt Horiseon Website image](.\starter\assets\images\01-html-css-git-challenge-demo.png)
 
 ## Installation
 
